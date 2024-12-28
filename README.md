@@ -1,0 +1,1 @@
+This Android app demonstrates the creation of a straightforward alert box. When the user clicks a button, an alert box appears with a customizable message and "OK" and "Cancel" options. This app provides a user-friendly way to display important information or notifications within an Android application.
